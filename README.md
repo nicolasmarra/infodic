@@ -7,7 +7,6 @@ Les termes utilisés le plus souvent en informatique y sont répertoriés.
 #Comment lancer l'application?
 
 Vous pouvez trouver le fichier exécutable dans:
-
 ```
 \InfoDic\bin\Debug\InfoDic.exe
 ````
