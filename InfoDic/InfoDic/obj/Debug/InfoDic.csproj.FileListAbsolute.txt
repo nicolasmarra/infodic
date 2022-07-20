@@ -1,0 +1,50 @@
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\bin\Debug\InfoDic.exe.config
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\bin\Debug\InfoDic.exe
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\bin\Debug\InfoDic.pdb
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Form1.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Properties.Resources.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.csproj.GenerateResource.Cache
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.exe
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.pdb
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Principal.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Ajuda.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Pronuncia.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Localizar.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\bin\Debug\bd_dicionario.mdb
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Relatorio.resources
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\RdlCompile.cache
+C:\Users\Nicolas M\Desktop\Dicionário\InfoDic\InfoDic\obj\Debug\RdlCompile.compiled
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\bin\Debug\InfoDic.exe.config
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.exe
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.pdb
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\bin\Debug\bd_dicionario.mdb
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\bin\Debug\InfoDic.exe
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Form1.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Ajuda.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Localizar.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Principal.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Pronuncia.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Relatorio.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.Properties.Resources.resources
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\InfoDic.csproj.GenerateResource.Cache
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\RdlCompile.cache
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\obj\Debug\RdlCompile.compiled
+C:\Users\nicol\Documents\School\Others\InfoDic\InfoDic\bin\Debug\InfoDic.pdb
+C:\Users\nicol\Documents\School\Au-delà\Others\InfoDic\InfoDic\bin\Debug\InfoDic.exe.config
+C:\Users\nicol\Documents\School\Au-delà\Others\InfoDic\InfoDic\obj\Debug\InfoDic.exe
+C:\Users\nicol\Documents\School\Au-delà\Others\InfoDic\InfoDic\obj\Debug\InfoDic.pdb
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\bin\Debug\InfoDic.exe.config
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.exe
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.pdb
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\bin\Debug\InfoDic.exe
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\bin\Debug\InfoDic.pdb
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.Form1.resources
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.Properties.Resources.resources
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.csproj.GenerateResource.Cache
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Help.resources
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Chercher.resources
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Pronunciation.resources
+C:\Users\nicol\Desktop\Execução maxima\InfoDic\InfoDic\obj\Debug\InfoDic.Frm_Main.resources
