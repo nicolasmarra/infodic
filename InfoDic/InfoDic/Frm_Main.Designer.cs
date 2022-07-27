@@ -54,6 +54,7 @@
             this.ptb_favoris = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btn_fermer = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ptb_rechercher)).BeginInit();
@@ -380,12 +381,28 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // btn_fermer
+            // 
+            this.btn_fermer.FlatAppearance.BorderSize = 0;
+            this.btn_fermer.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Red;
+            this.btn_fermer.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btn_fermer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_fermer.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_fermer.Location = new System.Drawing.Point(1328, 0);
+            this.btn_fermer.Name = "btn_fermer";
+            this.btn_fermer.Size = new System.Drawing.Size(39, 26);
+            this.btn_fermer.TabIndex = 33;
+            this.btn_fermer.Text = "X";
+            this.btn_fermer.UseVisualStyleBackColor = true;
+            this.btn_fermer.Click += new System.EventHandler(this.btn_fermer_Click);
+            // 
             // Frm_Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.ClientSize = new System.Drawing.Size(1367, 730);
+            this.Controls.Add(this.btn_fermer);
             this.Controls.Add(this.ltb_mots);
             this.Controls.Add(this.ltb_lettres);
             this.Controls.Add(this.label12);
@@ -416,6 +433,7 @@
             this.Name = "Frm_Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Frm_Main";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Frm_Principal_FormClosed);
             this.Load += new System.EventHandler(this.Frm_Main_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
@@ -459,5 +477,6 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.ListBox ltb_lettresf;
         private System.Windows.Forms.ListBox ltb_motsf;
+        private System.Windows.Forms.Button btn_fermer;
     }
 }

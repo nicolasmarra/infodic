@@ -187,7 +187,7 @@
             this.pictureBox6.Size = new System.Drawing.Size(54, 27);
             this.pictureBox6.TabIndex = 11;
             this.pictureBox6.TabStop = false;
-            this.toolTip1.SetToolTip(this.pictureBox6, "Permite interromper a leitura");
+            this.toolTip1.SetToolTip(this.pictureBox6, "Permet d\'interrompre la lecture");
             this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
             // 
             // pictureBox5
@@ -199,7 +199,7 @@
             this.pictureBox5.Size = new System.Drawing.Size(54, 31);
             this.pictureBox5.TabIndex = 10;
             this.pictureBox5.TabStop = false;
-            this.toolTip1.SetToolTip(this.pictureBox5, "Permite pausar a leitura");
+            this.toolTip1.SetToolTip(this.pictureBox5, "Permet d\'arrêter la lecture");
             this.pictureBox5.Click += new System.EventHandler(this.pictureBox5_Click);
             // 
             // pictureBox4
@@ -211,7 +211,7 @@
             this.pictureBox4.Size = new System.Drawing.Size(54, 32);
             this.pictureBox4.TabIndex = 9;
             this.pictureBox4.TabStop = false;
-            this.toolTip1.SetToolTip(this.pictureBox4, "Permite continuar a leitura");
+            this.toolTip1.SetToolTip(this.pictureBox4, "Permet de continuer la lecture");
             this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // Frm_Pronunciation

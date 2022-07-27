@@ -667,5 +667,10 @@ namespace InfoDic
 
         }
 
+        private void btn_fermer_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
     }
 }

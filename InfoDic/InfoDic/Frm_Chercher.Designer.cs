@@ -119,6 +119,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Frm_Chercher";
             this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Frm_Localizar";
             this.Load += new System.EventHandler(this.Frm_Localizar_Load);
             this.panel1.ResumeLayout(false);
