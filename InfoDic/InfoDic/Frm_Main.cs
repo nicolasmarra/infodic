@@ -540,8 +540,7 @@ namespace InfoDic
 
                 rtb_definition.SelectionStart = 0;
                 rtb_definition.SelectAll();
-                //this.rtb_explicacao.BackColor = System.Drawing.SystemColors.WindowFrame;
-
+                
                 rtb_definition.SelectionBackColor = rtb_definition.BackColor;
             }
         }
